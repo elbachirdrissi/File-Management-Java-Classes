@@ -1,2 +1,1 @@
-# File_Management_Java_Classes
- 
+The Java classes, GestionFichier and TestFichier, form a basic file management system. The GestionFichier class provides functionalities to create files, directories, delete files, and list contents of a directory. It includes methods to perform these operations based on user inputs. The TestFichier class serves as a utility for file manipulation, allowing users to modify, display, and copy the content of a specified file. Both classes demonstrate file handling using Java's java.io package, showcasing simple file creation, modification, and copying operations. Explore and use these classes to understand fundamental file management concepts in Java.
